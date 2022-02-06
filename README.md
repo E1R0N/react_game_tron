@@ -12,5 +12,6 @@ Para empezar con la programacion del juego primero se empezara colocando las lin
 De igual manera se creara una carpeta config donde vamos a establecer nuestras constantes, en este file se ingresara los jugadores y los keys con los que jugara.\
 Despues solo queda seguir programando nuestra logica como lo vemos en los archivos de App.js y nuestros index.js
 ## Link deploy
+https://react-game-tron.herokuapp.com/
 
 
